@@ -13,6 +13,4 @@
         <module>ant-sc-admin</module>
         <module>ant-sc-platform</module>
     </modules>
-
-
 </project>
